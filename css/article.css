@@ -873,7 +873,7 @@ footer .bottom_line {
   border: 1px solid #DEDEDE;
 }
 
-footer .responds_problem_wrapper {
+footer .problem_wrapper {
   grid-column:  1 / 2;
   display: flex;
   flex-direction: column;
@@ -883,7 +883,7 @@ footer .responds_problem_wrapper {
 }
 
 
-footer .responds_problem_title_txt {
+footer .problem_title_txt {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -892,7 +892,7 @@ footer .responds_problem_title_txt {
   width: 348px;
 }
 
-footer .responds_problem_subtitle_txt {
+footer .problem_subtitle_txt {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -901,7 +901,7 @@ footer .responds_problem_subtitle_txt {
   width: 327px;
 }
 
-footer .button_selection-specialist {
+footer .button_specialist {
   width: 230px;
   height: 48px;
   border-radius: 4px;
@@ -913,7 +913,7 @@ footer .button_selection-specialist {
   padding-top: 8px;
 }
 
-footer .button_selection-psychologist_a {
+footer .button_psychologist {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;

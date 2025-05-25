@@ -550,7 +550,7 @@ footer {
   color: #FFFFFF;
 }
 
-footer .nav_left {
+footer .main_left {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -583,7 +583,7 @@ footer a {
   text-decoration: none;
 }
 
-footer .nav_right {
+footer .main_right {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -616,7 +616,7 @@ footer .mail_title_txt {
   color: #FFFFFF;
 }
 
-footer .confid {
+footer .confirm {
   width: 486px;
   font-family: "Montserrat";
   font-style: normal;
@@ -694,7 +694,7 @@ footer .copyright {
   padding-top: 16px;
 }
 
-footer .juristic_documents {
+footer .legal {
   grid-column: 2/7;
   grid-row: 2;
   height: 20px;
@@ -709,7 +709,7 @@ footer .juristic_documents {
   padding-top: 16px;
 }
 
-footer .payment_methods {
+footer .payment {
   grid-column: 2/7;
   grid-row: 2;
   height: 20px;
