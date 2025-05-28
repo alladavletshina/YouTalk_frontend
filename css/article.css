@@ -76,7 +76,7 @@ header .menu_button_selection-specialist {
   margin-left: 50px;
 }
 
-header .menu_button_selection-psychologist_txt {
+header .menu_button_selection-specialist_txt {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -570,7 +570,7 @@ aside .button_free_offer_more_a {
   text-decoration: none;
   }
 
-aside .psychologist_information_wrapper {
+aside .specialist_information_wrapper {
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -607,7 +607,7 @@ aside .correspondence_and_video_inside_wrapper {
   border-radius: 6px;
 }
 
-aside .psychologist_information_txt_wrapper {
+aside .specialist_information_txt_wrapper {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -616,7 +616,7 @@ aside .psychologist_information_txt_wrapper {
   padding-top: 91px;
 }
 
-aside .psychologist_name {
+aside .specialist_name {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -624,7 +624,7 @@ aside .psychologist_name {
   line-height: 28px;
 }
 
-aside .psychologist_position {
+aside .specialist_position {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
@@ -651,7 +651,7 @@ aside .experience_and_age_txt {
   padding-bottom: 20px;
 }
 
-aside .psychologist_information_line {
+aside .specialist_information_line {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -663,7 +663,7 @@ aside .psychologist_information_line {
   transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
-aside .psychologist_work_wrapper {
+aside .specialist_work_wrapper {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -672,7 +672,7 @@ aside .psychologist_work_wrapper {
 
 }
 
-aside .psychologist_work_title_txt {
+aside .specialist_work_title_txt {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -681,7 +681,7 @@ aside .psychologist_work_title_txt {
   padding-top: 20px;
 }
 
-aside .psychologist_work_txt {
+aside .specialist_work_txt {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -689,11 +689,11 @@ aside .psychologist_work_txt {
   line-height: 20px;
 }
 
-aside .psychologist_work_circle {
+aside .specialist_work_circle {
   padding: 0px 10px 0px 6px;
 }
 
-aside .button_psychologist_information_more {
+aside .button_specialist_information_more {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -708,7 +708,7 @@ aside .button_psychologist_information_more {
   margin: 20px 0px 36px 0px;
 }
 
-aside .button_psychologist_information_more_a {
+aside .button_specialist_information_more_a {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -1038,7 +1038,7 @@ footer .red_dot_down_wrapper {
     width: 182px;
   }
 
-  aside .psychologist_information_wrapper {
+  aside .specialist_information_wrapper {
     background-position-x: 51px;
     background-position-y: 24px;
   }
@@ -1053,19 +1053,19 @@ footer .red_dot_down_wrapper {
     border-radius: 6px;
   }
   
-  aside .psychologist_information_txt_wrapper {
+  aside .specialist_information_txt_wrapper {
     width: 174px;
   }
 
-  aside .psychologist_information_line {
+  aside .specialist_information_line {
     width: 174px;
   }
   
-  aside .psychologist_work_wrapper {
+  aside .specialist_work_wrapper {
     width: 174px;
   }
 
-  aside .button_psychologist_information_more {
+  aside .button_specialist_information_more {
     width: 174px;
     margin-bottom: 24px;
   }
@@ -1198,7 +1198,7 @@ footer .red_dot_down_wrapper {
     grid-template-columns: 714px;
   }  
   
-  aside .psychologist_information_wrapper{
+  aside .specialist_information_wrapper{
     display: none;
   }
   
@@ -1534,21 +1534,21 @@ footer .red_dot_down_wrapper {
     width: 374px;
   }
 
-  aside .psychologist_information_wrapper{
+  aside .specialist_information_wrapper{
     display: block;
     background-position-x: 127px;
     background-position-y: 24px;
   }
 
-  aside .psychologist_information_txt_wrapper {
+  aside .specialist_information_txt_wrapper {
     padding-top: 110px;
   }
 
-  aside .psychologist_information_line {
+  aside .specialist_information_line {
     width: 250px;
   }
 
-  aside .psychologist_work_wrapper {
+  aside .specialist_work_wrapper {
     width: 250px;
   }
 
@@ -1722,21 +1722,21 @@ footer .red_dot_down_wrapper {
     width: 239px;
   }
 
-  aside .psychologist_information_wrapper{
+  aside .specialist_information_wrapper{
     display: block;
     background-position-x: 84px;
     background-position-y: 24px;
   }
 
-  aside .psychologist_information_txt_wrapper {
+  aside .specialist_information_txt_wrapper {
     padding-top: 110px;
   }
 
-  aside .psychologist_information_line {
+  aside .specialist_information_line {
     width: 250px;
   }
 
-  aside .psychologist_work_wrapper {
+  aside .specialist_work_wrapper {
     width: 250px;
   }
 
