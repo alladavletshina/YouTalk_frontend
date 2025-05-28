@@ -208,7 +208,7 @@ main .menu_mini_txt {
   text-decoration: none;
 }
 
-main .block_wrapper {
+main .section_wrapper {
   grid-column: 1/2;
 }
 
@@ -218,13 +218,13 @@ main .section_title_text {
   font-size: 48px;
 }
 
-main .block_autor-date_wrapper {
+main .section_author-date_wrapper {
   display: flex;
   margin: 16px 0px 24px 0px;
   gap: 8px;
 }
 
-main .block_autor-date {
+main .section_author-date {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -232,7 +232,7 @@ main .block_autor-date {
   line-height: 20px;
 }
 
-main .block_hashtag {
+main .section_hashtag {
   display: none;
   font-family: "Montserrat";
   font-style: normal;
@@ -241,7 +241,7 @@ main .block_hashtag {
   line-height: 20px;
 }
 
-main .block_hashtag_txt {
+main .section_hashtag_txt {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -961,7 +961,7 @@ footer .red_dot_down_wrapper {
     grid-template-columns: 714px 24px;
   }
   
-  main .block_hashtag {
+  main .section_hashtag {
     display: block;
   }
    
