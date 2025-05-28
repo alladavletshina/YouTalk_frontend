@@ -281,7 +281,7 @@ main .content_left {
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_left_top_wrapper {
+main .main_section_left_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/RectangleEggs.png);
   border-top-left-radius: 16px;
@@ -322,7 +322,7 @@ main .themes_hashtag_2 {
   line-height: 20px;
 }
 
-main .main_block_text-part {
+main .main_section_text-part {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -331,7 +331,7 @@ main .main_block_text-part {
   position: relative;
 }
 
-main .main_block_title {
+main .main_section_title {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -339,7 +339,7 @@ main .main_block_title {
   line-height: 26px;
 }
 
-main .main_block_autor {
+main .main_section_autor {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -348,7 +348,7 @@ main .main_block_autor {
   color: #494949;
 }
 
-main .main_block_text {
+main .main_section_text {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -356,7 +356,7 @@ main .main_block_text {
   line-height: 20px;
 }
 
-main .main_block_date {
+main .main_section_date {
     width: 61px;
     height: 18px;
     color: #868686;
@@ -369,14 +369,14 @@ main .main_block_date {
     top: 206px;
 }
 
-main .main_block_right {
+main .main_section_right {
   width: 586px;
   height: 499px;
   border-radius: 16px;
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_right_top_wrapper {
+main .main_section_right_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/RectangleRun.png);
   border-top-left-radius: 16px;
@@ -385,7 +385,7 @@ main .main_block_right_top_wrapper {
   background-position: center;
 }
 
-main .main_block_secondary {
+main .main_section_secondary {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -395,14 +395,14 @@ main .main_block_secondary {
   gap: 24px;
 }
 
-main .main_block_secondary_left {
+main .main_section_secondary_left {
   width: 382px;
   height: 475px;
   border-radius: 16px;
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_secondary_left_top_wrapper {
+main .main_section_secondary_left_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/Rectangle_sleep_lady.png);
   border-top-left-radius: 16px;
@@ -411,7 +411,7 @@ main .main_block_secondary_left_top_wrapper {
   background-position: center;
 }
 
-main .main_block_secondary_date {
+main .main_section_secondary_date {
     width: 61px;
     height: 18px;
     color: #868686;
@@ -424,7 +424,7 @@ main .main_block_secondary_date {
     top: 182px
 }
 
-main .main_block_secondary_center {
+main .main_section_secondary_center {
   width: 382px;
   height: 475px;
   left: 408px;
@@ -432,7 +432,7 @@ main .main_block_secondary_center {
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_secondary_center_top_wrapper {
+main .main_section_secondary_center_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/Rectangle_swim_lady.png);
   border-top-left-radius: 16px;
@@ -441,7 +441,7 @@ main .main_block_secondary_center_top_wrapper {
   background-position: center;
 }
 
-main .main_block_secondary_right {
+main .main_section_secondary_right {
   width: 382px;
   height: 475px;
   left: 816px;
@@ -449,7 +449,7 @@ main .main_block_secondary_right {
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_secondary_right_top_wrapper {
+main .main_section_secondary_right_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/Rectangle_unsmiling.png);
   border-top-left-radius: 16px;
@@ -458,14 +458,14 @@ main .main_block_secondary_right_top_wrapper {
   background-position: center;
 }
 
-main .main_block_secondary_2_left {
+main .main_section_secondary_2_left {
   width: 382px;
   height: 475px;
   border-radius: 16px;
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_secondary_2_left_top_wrapper {
+main .main_section_secondary_2_left_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/Rectangle_lady_computer.png);
   border-top-left-radius: 16px;
@@ -474,7 +474,7 @@ main .main_block_secondary_2_left_top_wrapper {
   background-position: center;
 }
 
-main .main_block_secondary_2_center {
+main .main_section_secondary_2_center {
   width: 382px;
   height: 475px;
   left: 408px;
@@ -482,7 +482,7 @@ main .main_block_secondary_2_center {
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_secondary_2_center_top_wrapper {
+main .main_section_secondary_2_center_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/Rectangle_old_lady.png);
   border-top-left-radius: 16px;
@@ -491,7 +491,7 @@ main .main_block_secondary_2_center_top_wrapper {
   background-position: center;
 }
 
-main .main_block_secondary_2_right {
+main .main_section_secondary_2_right {
   width: 382px;
   height: 475px;
   left: 816px;
@@ -499,7 +499,7 @@ main .main_block_secondary_2_right {
   border: 1px solid #DEDEDE;
 }
 
-main .main_block_secondary_2_right_top_wrapper {
+main .main_section_secondary_2_right_top_wrapper {
   min-height: 260px;
   background: no-repeat url(../images/Rectangle_people.png);
   border-top-left-radius: 16px;
@@ -804,78 +804,78 @@ footer .social_wrapper {
     width: 464px;
   }
 
-  main .main_block_right {
+  main .main_section_right {
     width: 464px;
   }
   
-  main .main_block_left_top_wrapper {
+  main .main_section_left_top_wrapper {
     min-height: 260px;
   }
   
-  main .main_block_right_top_wrapper {
+  main .main_section_right_top_wrapper {
     min-height: 260px;
   }
 
-  main .main_block_secondary {
+  main .main_section_secondary {
     grid-column: 2 / 5;
   }
   
-  main .main_block_secondary_date {
+  main .main_section_secondary_date {
     padding: 86px 0px 0px 0px;
     position: absolute;
   }
 
-  main .main_block_secondary_left {
+  main .main_section_secondary_left {
     width: 301px;
     height: 500px;
   }
 
-  main .main_block_secondary_center {
+  main .main_section_secondary_center {
     width: 301px;
     height: 500px;
   }
 
-  main .main_block_secondary_right {
+  main .main_section_secondary_right {
     width: 301px;
     height: 500px;
   }
   
-  main .main_block_secondary_left_top_wrapper {
+  main .main_section_secondary_left_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_center_top_wrapper {
+  main .main_section_secondary_center_top_wrapper {
     min-height: 206px;
   }
     
-  main .main_block_secondary_right_top_wrapper {
+  main .main_section_secondary_right_top_wrapper {
     min-height: 206px;
   }
 
-  main .main_block_secondary_2_left {
+  main .main_section_secondary_2_left {
     width: 301px;
     height: 500px;
   }
 
-  main .main_block_secondary_2_center {
+  main .main_section_secondary_2_center {
     width: 301px;
     height: 500px;
   }
 
-  main .main_block_secondary_2_right {
+  main .main_section_secondary_2_right {
     width: 301px;
     height: 500px;
   }
   
-    main .main_block_secondary_2_left_top_wrapper {
+    main .main_section_secondary_2_left_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_center_top_wrapper {
+  main .main_section_secondary_2_center_top_wrapper {
     min-height: 206px;
   }
     
-  main .main_block_secondary_2_right_top_wrapper {
+  main .main_section_secondary_2_right_top_wrapper {
     min-height: 206px;
   }
 
@@ -952,15 +952,15 @@ footer .social_wrapper {
     grid-row: 4;
   }
   
-  main .main_block_date {
+  main .main_section_date {
     top: 160px;
   }
   
-  main .main_block_left_top_wrapper {
+  main .main_section_left_top_wrapper {
     min-height: 404px;
   }
   
-  main .main_block_right_top_wrapper {
+  main .main_section_right_top_wrapper {
     min-height: 404px;
   }
 
@@ -969,70 +969,70 @@ footer .social_wrapper {
     width: 728px;
   }
 
-  main .main_block_right {
+  main .main_section_right {
     height: 600px;
     width: 728px;
   }
 
-  main .main_block_secondary {
+  main .main_section_secondary {
     grid-column: 2 / 3;
   }
   
-  main .main_block_secondary_left_top_wrapper {
+  main .main_section_secondary_left_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_center_top_wrapper {
+  main .main_section_secondary_center_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_right_top_wrapper {
+  main .main_section_secondary_right_top_wrapper {
     min-height: 206px;
   }
    
-  main .main_block_secondary_date {
+  main .main_section_secondary_date {
     padding: 30px 0px 0px 0px;
     position: absolute;
   }
 
-  main .main_block_secondary_left {
+  main .main_section_secondary_left {
     width: 350px;
     height: 446px;
   }
 
-  main .main_block_secondary_center {
+  main .main_section_secondary_center {
     width: 350px;
     height: 446px;
   }
 
-  main .main_block_secondary_right {
+  main .main_section_secondary_right {
     width: 350px;
     height: 446px;
   }
 
-  main .main_block_secondary_2_left_top_wrapper {
+  main .main_section_secondary_2_left_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_center_top_wrapper {
+  main .main_section_secondary_2_center_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_right_top_wrapper {
+  main .main_section_secondary_2_right_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_left {
+  main .main_section_secondary_2_left {
     width: 350px;
     height: 446px;
   }
 
-  main .main_block_secondary_2_center {
+  main .main_section_secondary_2_center {
     width: 350px;
     height: 446px;
   }
 
-  main .main_block_secondary_2_right {
+  main .main_section_secondary_2_right {
     width: 350px;
     height: 446px;
   }
@@ -1121,15 +1121,15 @@ footer .social_wrapper {
     grid-row: 4;
   }
   
-  main .main_block_date {
+  main .main_section_date {
     top: 230px;
   }
   
-  main .main_block_left_top_wrapper {
+  main .main_section_left_top_wrapper {
     min-height: 206px;
   }
   
-    main .main_block_right_top_wrapper {
+    main .main_section_right_top_wrapper {
     min-height: 206px;
   }
 
@@ -1138,70 +1138,70 @@ footer .social_wrapper {
     width: 374px;
   }
 
-  main .main_block_right {
+  main .main_section_right {
     height: 466px;
     width: 374px;
   }
 
-  main .main_block_secondary {
+  main .main_section_secondary {
     grid-column: 2 / 3;
   }
   
-  main .main_block_secondary_left_top_wrapper {
+  main .main_section_secondary_left_top_wrapper {
     min-height: 206px;
   }
   
-    main .main_block_secondary_center_top_wrapper {
+    main .main_section_secondary_center_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_right_top_wrapper {
+  main .main_section_secondary_right_top_wrapper {
     min-height: 206px;
   }
    
-  main .main_block_secondary_date {
+  main .main_section_secondary_date {
     padding: 30px 0px 0px 0px;
     position: absolute;
   }
 
-  main .main_block_secondary_left {
+  main .main_section_secondary_left {
     height: 466px;
     width: 374px;
   }
 
-  main .main_block_secondary_center {
+  main .main_section_secondary_center {
     height: 466px;
     width: 374px;
   }
 
-  main .main_block_secondary_right {
+  main .main_section_secondary_right {
     height: 466px;
     width: 374px;
   }
   
-    main .main_block_secondary_2_left_top_wrapper {
+    main .main_section_secondary_2_left_top_wrapper {
     min-height: 206px;
   }
   
-    main .main_block_secondary_2_center_top_wrapper {
+    main .main_section_secondary_2_center_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_right_top_wrapper {
+  main .main_section_secondary_2_right_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_left {
+  main .main_section_secondary_2_left {
     height: 466px;
     width: 374px;
   }
   
-  main .main_block_secondary_2_center {
+  main .main_section_secondary_2_center {
     height: 466px;
     width: 374px;
   }
 
-  main .main_block_secondary_2_right {
+  main .main_section_secondary_2_right {
     height: 466px;
     width: 374px;
   }
@@ -1287,15 +1287,15 @@ footer .social_wrapper {
     grid-row: 4;
   }
   
-  main .main_block_date {
+  main .main_section_date {
     top: 250px;
   }
   
-  main .main_block_left_top_wrapper {
+  main .main_section_left_top_wrapper {
     min-height: 206px;
   }
   
-    main .main_block_right_top_wrapper {
+    main .main_section_right_top_wrapper {
     min-height: 206px;
   }
 
@@ -1304,70 +1304,70 @@ footer .social_wrapper {
     width: 288px;
   }
 
-  main .main_block_right {
+  main .main_section_right {
     height: 484px;
     width: 288px;
   }
 
-  main .main_block_secondary {
+  main .main_section_secondary {
     grid-column: 2 / 3;
   }
   
-  main .main_block_secondary_left_top_wrapper {
+  main .main_section_secondary_left_top_wrapper {
     min-height: 206px;
   }
   
-    main .main_block_secondary_center_top_wrapper {
+    main .main_section_secondary_center_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_right_top_wrapper {
+  main .main_section_secondary_right_top_wrapper {
     min-height: 206px;
   }
    
-  main .main_block_secondary_date {
+  main .main_section_secondary_date {
     padding: 70px 0px 0px 0px;
     position: absolute;
   }
 
-  main .main_block_secondary_left {
+  main .main_section_secondary_left {
     height: 484px;
     width: 288px;
   }
 
-  main .main_block_secondary_center {
+  main .main_section_secondary_center {
     height: 484px;
     width: 288px;
   }
 
-  main .main_block_secondary_right {
+  main .main_section_secondary_right {
     height: 484px;
     width: 288px;
   }
   
-    main .main_block_secondary_2_left_top_wrapper {
+    main .main_section_secondary_2_left_top_wrapper {
     min-height: 206px;
   }
   
-    main .main_block_secondary_2_center_top_wrapper {
+    main .main_section_secondary_2_center_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_right_top_wrapper {
+  main .main_section_secondary_2_right_top_wrapper {
     min-height: 206px;
   }
   
-  main .main_block_secondary_2_left {
+  main .main_section_secondary_2_left {
     height: 484px;
     width: 288px;
   }
   
-  main .main_block_secondary_2_center {
+  main .main_section_secondary_2_center {
     height: 484px;
     width: 288px;
   }
 
-  main .main_block_secondary_2_right {
+  main .main_section_secondary_2_right {
     height: 484px;
     width: 288px;
   }
