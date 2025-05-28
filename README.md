@@ -2,8 +2,6 @@
 Этот проект представляет собой верстку блога на основе макета в Figma.
 Ссылка https://www.figma.com/design/NsD6GG3ZWD29ZWzkCMUkjU/Youtalk---Blog?node-id=0-1&p=f&t=hFp0BdO4SbZjBK8B-0
 
-Технические требования
-
 Основные технологии:
 + HTML5 (семантическая верстка)
 + CSS3 (Flexbox/Grid, медиазапросы)
