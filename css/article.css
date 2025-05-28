@@ -262,12 +262,12 @@ main .text_container {
   margin-top: 24px;
 }
 
-main .content_less1024_wrapper {
+main .text_less1024_wrapper {
   display: none;
   margin-top: 24px;
 }
 
-main .content_less1024 {
+main .text_less1024 {
   color: #333333;
   font-family: "Montserrat";
   font-weight: 500;
@@ -275,17 +275,17 @@ main .content_less1024 {
   text-decoration-line: underline;
 }
 
-main .content_less1024_inside_wrapper {
+main .text_less1024_inside_wrapper {
   display: flex;
 }
 
-main .content_color_list_circle {
+main .text_color_list_circle {
   width: 24px;
   height: 24px;
   margin: 0px 0px 0px 8px;
 }
 
-main .content_ul_wrapper {
+main .text_ul_wrapper {
   margin-left: -24px;
 }
 
@@ -424,7 +424,7 @@ main .activity_yellow_box {
   border-radius: 16px;
 }
 
-main .exercise_orange_wrapper {
+main .activity_orange_wrapper {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -461,7 +461,7 @@ main .light_wrapper {
   padding-bottom: 24px;
 }
 
-main .exercise_blue_wrapper {
+main .activity_blue_wrapper {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -975,7 +975,7 @@ footer .red_dot_down_wrapper {
     display: none;
   }
   
-  main .content_less1024_wrapper {
+  main .text_less1024_wrapper {
     display: block;
   }
   
